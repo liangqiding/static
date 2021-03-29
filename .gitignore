@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ###
-#.gitignore
-a/*.text
+.gitignore
+a/*.txt
